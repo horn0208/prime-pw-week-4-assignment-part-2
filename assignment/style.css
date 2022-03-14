@@ -1,3 +1,8 @@
+body {
+    margin: 0;
+    text-align: center;
+}
+
 header {
     background-color:salmon;
 }
@@ -6,3 +11,6 @@ header {
     background-color:mediumslateblue;
     color:mistyrose;
 }
+h3 {
+    background-color:salmon;
+    color:midnightblue;
